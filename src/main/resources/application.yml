@@ -1,0 +1,4 @@
+server:
+  port: 8888
+international:
+  address: http://45.33.61.94:8888/ip/detect/international
